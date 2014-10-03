@@ -18,6 +18,7 @@ public class Main
         final Pacman pac = new Pacman(300,300,300);
         frame.add(pac);
 
+
         frame.setVisible(true);
         frame.addKeyListener(new KeyListener()
         {
